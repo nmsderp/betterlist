@@ -1,7 +1,13 @@
 {
-    "id": "N/A",
+    "id": 0,
     "name": "Chemical Travel",
-    "verification": "https://youtu.be/KtVqI2IL8Aw",
+    "author": "nmsderp",
+    "creators": ["nmsderp", "evillabraen"],
+    "verifier": "???",
+    "verification": "https://youtu.be/z6l74Mkoxm8",
     "percentToQualify": "100",
-    "upcoming": true
+    "upcoming": true,
+    "password": "yabutt",
+    "records": [
+    ]
 }
